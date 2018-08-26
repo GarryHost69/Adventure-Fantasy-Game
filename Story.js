@@ -1,0 +1,18 @@
+const story = {
+	// dungeonName: "Flase Point Layer",
+	// demon: "Fire Demon Leniar",
+	// FriendName: "YiGdrell",
+	// Hero: "Keilser",
+	d1 : "After a Year long Journey through the land of Ombleis, Searching for the False Point Layer, Chasing after Rumors and hearing all the Horror Stories of men Who have tried looking for the Secret treasure hidden in that dungeon somewhere (Meeting Death sooner than they should) Here You stand at the entrance of what seems to be the real deal!!",
+	d2 : "YiGdrell : Our Days of Misery Might Just end Kielser. If this is the real deal can you imagine how our lives would change. I can feel it Kel, I can feel it, our destiny is about to take a turn.",
+	d3 : "You : I can only hope for a good turn. With this dungeon conquered I can finally prove myself to be worthy of being a part of the seven great mages of the xiWuHan Kingdom. The dungeon seems to diverge ahead, the left dungeon layer is decently lit with flaming torches, the right dungeon layer's path is completely Dark. Which Path Do You Choose : ",
+	d4 : "YiGdrell : Noice! What better Chance at finding the treasure than in well lit layer. I'm sure the People who died here chose the other path.",
+	d5 : "YiGdrell : Kel I don't feel so good walking this path bruv, I mean I get that You are a strong mage and want to prove it to the world but you do know this is the False point layer, Home to Fire Demon Leniar. There's a difference between Bravery and stupidity................",
+	d6 : "You : Shhh, You hear that. It sounds like.... It sounds like someone's crying..... crying help. Do you hear that YiGdrell?",
+	d7 : "You : I felt a strong Dark Magic presence in this area. Think about it, If there's a treasure hidden somewhere around here, protected by that demon where else should we look for it but here. After all we chose to enter this dungeon, facing that creature is inevitable. (You felt an errie sense of something looming behind you) What do you do : ",
+    d8 : "YiGdrell : Yeah I can hear it too It seem to be coming from that door over there. Kel, I don't think we should go there, it might be a trap or something and we are here to look for the treasure not to rescue anyone. What do you do : ",
+    d9 : "(After Casting the Freeze spell resulting in a burst of Ice Behind you, You turn around to see......... It's the Fire Demon Leniar. His movement is restricted due to the ice but the ice is starting to melt) You : Run YiGdrell!! let's get out of here!!",
+	d10 : "You : AAhhhh........................(You're Hurt but You can't stop now Keep Running or You'll be dead too)",
+	d11 : "Emelia : Help, Please Help me!! Get me out of here before he comes back",
+	d12 : "You : I don't feel about leaving that person behind! What if it was us YiGdrell, What if we were trapped in here and someone would just ignore us and move on like we ignored that person who clearly needed our help?",
+}
